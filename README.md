@@ -10,6 +10,13 @@ Disclamer:
 - I parsed the standings after the intermediate rounds. Tiebrakers may be wrong. 
 - Player data for the simulation includes final round.
 
+### Match higlight
+The monte carlo simulation of the bracket points to a nailbiter of a finish where the modal value has Ulf winning 4-3, with CJ still being the predicted winner.
+
+![png](FIG/carl-johan_ryner_ulf_kristiansson_e2.png)
+
+
+
 Shown here are MC siumulations of the brackets and the probability of the winner.
 
 ## Most Common Medalists
@@ -54,3 +61,7 @@ Here each match is played 10000 times. The Color of the box indicates the probab
 ![png](FIG/matchplay_W_lanes.png)
 
 ![png](FIG/matchplay_M_lanes.png)
+
+
+
+
