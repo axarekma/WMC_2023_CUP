@@ -14,7 +14,7 @@ For earlier introduction, please refer to The analysis of [WMC 2017](https://git
 Shown here are MC siumulations of the brackets and the probability of the winner.
 
 ## Womens cup as of 23/08
-![png](FIG/matchplay_W.png)
+![png](FIG/matchplay_W_248.png)
 
 ## Mens cup as of 23/08
-![png](FIG/matchplay_M.png)
+![png](FIG/matchplay_M_248.png)
