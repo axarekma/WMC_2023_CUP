@@ -278,4 +278,13 @@ class Cup_32:
         ax.set_axis_off()
 
 
+def gen_Cup_16(ranks,data,lanes,n_max):
+    for n in range(n_max):
+        yield Cup_16(ranks,data,lanes)
+        
+def gen_Cup_32(ranks,data,lanes,n_max):
+    for n in range(n_max):
+        yield Cup_32(ranks,data,lanes)
+
+
     
