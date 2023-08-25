@@ -3,7 +3,7 @@
 ## Monte carlo simulations of the cup finals
 Axel Ekman
 
-For earlier introduction, please refer to The analysis of [WMC 2017](https://github.com/axarekma/WMC_2017_CUP)
+For earlier introduction, please refer to The analysis of [WMC 2017](https://axarekma.github.io/WMC_2017_CUP/)
 
 
 ### Hot takes
