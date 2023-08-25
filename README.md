@@ -29,36 +29,10 @@ The lanes were not in favour of Yannick Müller, dropping him from second place 
 
 
 #### Womens CUP
-| Player                |   Gold |   Silver |   Bronze |
-|:----------------------|-------:|---------:|---------:|
-| Melanie Hammerschmidt |     32 |       25 |       10 |
-| Anna Bandera          |     20 |       12 |       14 |
-| Stefanie Blendermann  |     17 |       14 |       20 |
-| Michaela Krane        |      9 |       10 |       12 |
-| Sandra Kungsman       |      6 |        8 |       10 |
-| Jasmin Bothmann       |      4 |        7 |        9 |
-| Karin Olsson          |      4 |        7 |        3 |
-| Lara Jehle            |      3 |        7 |        8 |
-| Michaela Irxenmayer   |      2 |        4 |        5 |
-| Julia Sjöberg         |      1 |        3 |        1 |
-| Carolin Svensson      |      1 |        1 |        2 |
+<table><thead><tr><th>Player</th><th>Gold</th><th>Silver</th><th>Bronze</th></tr></thead><tbody><tr><td>Melanie Hammerschmidt</td><td>32</td><td>25</td><td>10</td></tr><tr><td>Anna Bandera</td><td>20</td><td>12</td><td>14</td></tr><tr><td>Stefanie Blendermann</td><td>17</td><td>14</td><td>20</td></tr><tr><td>Michaela Krane</td><td>9</td><td>10</td><td>12</td></tr><tr><td>Sandra Kungsman</td><td>6</td><td>8</td><td>10</td></tr><tr><td>Jasmin Bothmann</td><td>4</td><td>7</td><td>9</td></tr><tr><td>Karin Olsson</td><td>4</td><td>7</td><td>3</td></tr><tr><td>Lara Jehle</td><td>3</td><td>7</td><td>8</td></tr><tr><td>Michaela Irxenmayer</td><td>2</td><td>4</td><td>5</td></tr><tr><td>Julia Sjöberg</td><td>1</td><td>3</td><td>1</td></tr><tr><td>Carolin Svensson</td><td>1</td><td>1</td><td>2</td></tr></tbody></table>
 
 #### Mens Cup
-| Player                     |   Gold |   Silver |   Bronze |
-|:---------------------------|-------:|---------:|---------:|
-| Carl-Johan Ryner           |     24 |       17 |        9 |
-| Ulf Kristiansson           |     19 |       12 |       12 |
-| Eirik Seljelid             |     11 |       10 |       13 |
-| Fredrik Persson            |     10 |        9 |        5 |
-| Ondřej Škaloud             |      9 |        8 |       11 |
-| Lukas Neumann              |      9 |        8 |        8 |
-| Yannick Müller             |      7 |        9 |       12 |
-| Beat Wartenweiler          |      3 |        5 |        6 |
-| Zdenek Majkus              |      1 |        3 |        4 |
-| Kenny Marc Schmeckenbecher |      1 |        2 |        2 |
-| Sebastian Piekorz          |      1 |        2 |        2 |
-| Paolo Porta                |      1 |        2 |        2 |
-| Sebastian Heine            |      1 |        2 |        1 |
+<table><thead><tr><th>Player</th><th>Gold</th><th>Silver</th><th>Bronze</th></tr></thead><tbody><tr><td>Carl-Johan Ryner</td><td>24</td><td>17</td><td>9</td></tr><tr><td>Ulf Kristiansson</td><td>19</td><td>12</td><td>12</td></tr><tr><td>Eirik Seljelid</td><td>11</td><td>10</td><td>13</td></tr><tr><td>Fredrik Persson</td><td>10</td><td>9</td><td>5</td></tr><tr><td>Ondřej Škaloud</td><td>9</td><td>8</td><td>11</td></tr><tr><td>Lukas Neumann</td><td>9</td><td>8</td><td>8</td></tr><tr><td>Yannick Müller</td><td>7</td><td>9</td><td>12</td></tr><tr><td>Beat Wartenweiler</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Zdenek Majkus</td><td>1</td><td>3</td><td>4</td></tr><tr><td>Kenny Marc Schmeckenbecher</td><td>1</td><td>2</td><td>2</td></tr><tr><td>Sebastian Piekorz</td><td>1</td><td>2</td><td>2</td></tr><tr><td>Paolo Porta</td><td>1</td><td>2</td><td>2</td></tr><tr><td>Sebastian Heine</td><td>1</td><td>2</td><td>1</td></tr></tbody></table>
 
 ## Bracket with match probabilities
 Here each match is played 10000 times. The Color of the box indicates the probability of the winner.
