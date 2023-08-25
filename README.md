@@ -20,12 +20,10 @@ The monte carlo simulation of the mens bracket points to a nailbiter of a finish
 
 ![png](FIG/carl-johan_ryner_ulf_kristiansson_e2.png)
 
-## Most Common Medalists
-The most common medalists is counted from 10000 realizations of a MC bracket. Numbers shown are normalized to 100. 
-
-I.e., if we were to rerun the bracket 100 times, Melanie is expected to win 32 times, and be on the podium a total of 67 times.
-
 The lanes were not in favour of Yannick Müller, dropping him from second place to the 7th most likely winner.
+
+## Most Common Medalists
+Here we show the most common medalists from 10000 realizations of a MC bracket. The numbers shown are normalized to 100, i.e., if we were to rerun the bracket 100 times, Melanie is expected to win 32 times, and be on the podium a total of 67 times.
 
 
 #### Womens CUP
