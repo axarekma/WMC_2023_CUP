@@ -46,8 +46,8 @@ RANK_M = {
 26:'Marián Straško',
 27:'Kai Lödding',
 28:'Oleg Klassen',
-29:'Marco Broggi',
-30:'Filip Cervinka',
+29:'Filip Cervinka',
+30:'Marco Broggi',
 31:'Simon Junker',
 32:'Mathias Jagschitz',
 }

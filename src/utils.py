@@ -26,7 +26,7 @@ def medalists(data):
                      'Silver':np.round([el[1] for el in data].count(name)*100/n_MC).astype(int),
                      'Bronze':np.round([el[2] for el in data].count(name)*100/n_MC).astype(int),                
                     })
-    df = pd.DataFrame(rows).sort_values(by=['Gold'],ascending = False)
+    df = pd.DataFrame(rows).sort_values(by=['Gold','Silver','Bronze'],ascending = False)
 
     return df
 

@@ -132,10 +132,11 @@ class Cup_32:
         return Game(p1,p2,k,self.data,self.lanes,MC)
 
     
+from tqdm.auto import trange
 def gen_Cup_16(ranks,data,lanesA,lanesB,n_max):
-    for n in range(n_max):
+    for n in trange(n_max):
         yield Cup_16(ranks,data,lanesA,lanesB)
         
 def gen_Cup_32(ranks,data,lanesA,lanesB,n_max):
-    for n in range(n_max):
+    for n in trange(n_max):
         yield Cup_32(ranks,data,lanesA,lanesB)
