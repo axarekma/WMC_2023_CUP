@@ -8,8 +8,8 @@ For earlier introduction, please refer to The analysis of [WMC 2017](https://axa
 
 ### Hot takes
 The most probably winner of the women is Melanie Hammerschmidt winning gold 32/100 times but the most probable bracket outcome has the podium as 
-1. Melanie Hammerschmidt
-2. Anna Bandera 
+1. Anna Bandera 
+2. Melanie Hammerschmidt
 3. Stefanie Blendermann.
 
 World champion Stefanie Blendermann is surprisingly an underdog in both matches.
