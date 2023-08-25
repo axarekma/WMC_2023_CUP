@@ -14,7 +14,9 @@ The most probably winner of the women is Melanie Hammerschmidt winning gold 32/1
 
 World champion Stefanie Blendermann is surprisingly an underdog in both matches.
 
-The monte carlo simulation of the bracket points to a nailbiter of a finish where the modal value has Ulf winning 4-3, with CJ still being the predicted winner.
+---
+
+The monte carlo simulation of the mens bracket points to a nailbiter of a finish where the modal value has Ulf winning 4-3, with CJ still being the predicted winner.
 
 ![png](FIG/carl-johan_ryner_ulf_kristiansson_e2.png)
 
